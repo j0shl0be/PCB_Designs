@@ -1,0 +1,11 @@
+Removed Member From Class: ClassName=Relay Control Member=C1
+Removed Member From Class: ClassName=Relay Control Member=C2
+Removed Member From Class: ClassName=Relay Control Member=R1
+Removed Member From Class: ClassName=Relay Control Member=R2
+Removed Member From Class: ClassName=Relay Control Member=R4
+Added Pin To Net: NetName=NetR7_2 Pin=TP1-1
+Added Pin To Net: NetName=NetTP2_1 Pin=TP2-1
+Added Pin To Net: NetName=NetTP2_1 Pin=U1-4
+Added Pin To Net: NetName=NetTP2_1 Pin=U2-3
+Added Net: Name=NetTP2_1
+Added Member To Class: ClassName=Relay Control Member=Component C3 CC0805KKX7R8BB105

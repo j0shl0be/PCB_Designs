@@ -1,0 +1,8 @@
+Added Pin To Net: NetName=NetC7_1 Pin=J1-1
+Added Pin To Net: NetName=NetC6_1 Pin=J2-1
+Change Net Name : Old Net Name=NetC6_1 New Net Name=PRE_RELAY_ON
+Change Net Name : Old Net Name=NetC7_1 New Net Name=RPI PRE_RELAY_ON
+Added Member To Class: ClassName=Relay Control Member=Component C3 CC0805KKX7R8BB105
+Added Member To Class: ClassName=Relay Control Member=Component C8 HMK212B7104MG-T
+Added Member To Class: ClassName=Relay Control Member=Component TP2 TEST_POINT
+Added Member To Class: ClassName=Relay Control Member=Component U1 SN74LVC1G11DCKR
