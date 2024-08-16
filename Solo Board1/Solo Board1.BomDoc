@@ -1,0 +1,20 @@
+|RECORD=BOM|VERSION=6|FILENAME=C:\Users\joshu\PCB_Designs\Solo Board1\Solo Board1.$$$|KIND=ALTIUM_DESIGNER_LIVEBOM|DATE=16.08.2024|TIME=16:54:28|CURRENCY=USD|PRODUCTIONQUANTITY=1|PERUNITTARGETPRICE=0|PERUNITACTUALPRICE=0
+|RECORD=GeneralOptions|OPENEXPORTED=False|ADDTOPROJECT=False|FORCEFIT=False|NOTFITTED=False|TEMPLATEFILENAME=|BATCHMODE=0|SUPPLIERPRODQTY=0|SUPPLIERAUTOQTY=False|SUPPLIERUSECACHEDPRICING=False|SUPPLIERCURRENCY=|SOLUTIONSPERITEM=1|SUPPLIERSPERSOLUTION=1|DISPLAYTOTALROW=False|DISPLAYSUBTOTALSFORGROUPS=False|INCLUDEPCBPARAMETERS=False|INCLUDEDBPARAMETERS=False|INCLUDEVAULTPARAMETERS=False|INCLUDECLOUDPARAMETERS=False|INCLUDEDOCUMENTPARAMETERS=False|FILTEROUTRISKYSOLUTIONS=True|DESIGNATORGROUPING=No
+|RECORD=SortOrderOptions|SORTORDER=
+|RECORD=GroupOrderOptions|GROUPORDER=
+|RECORD=VisibleOrderOptions|VISIBLEORDER=Line #=54!Comment=67!Description=100!Designator=78!Quantity=67!Manufacturer 1=101!Manufacturer Part Number 1=170!Manufacturer Lifecycle 1=146!Supplier 1=74!Supplier Part Number 1=142!Supplier Unit Price 1=126!Supplier Subtotal 1=120
+|RECORD=VisibleOrderOptions2|BASEVIEW=Line #=54!Comment=67!Description=-1!Designator=78!Quantity=67!Manufacturer 1=101!Manufacturer Part Number 1=170!Manufacturer Lifecycle 1=146!Supplier 1=74!Supplier Part Number 1=142!Supplier Unit Price 1=126!Supplier Subtotal 1=120|FLATVIEW=Line #=-1!Comment=-1!Description=-1!Designator=-1!Manufacturer 1=101!Manufacturer Part Number 1=170!Manufacturer Lifecycle 1=146!Supplier 1=74!Supplier Part Number 1=142!Supplier Unit Price 1=126!Supplier Subtotal 1=120|CONSOLIDATEDVIEW=Line #=-1!Comment=-1!Description=-1!Designator=-1!Quantity=-1!Manufacturer 1=101!Manufacturer Part Number 1=170!Manufacturer Lifecycle 1=146!Supplier 1=74!Supplier Part Number 1=142!Supplier Unit Price 1=126!Supplier Subtotal 1=120
+|RECORD=CustomColumns|CUSTOMCOLUMNS=
+|RECORD=ColumnsAliases|COLUMNSALIASES=Comment=Name
+|RECORD=FilterOptions|FILTER=
+|RECORD=CheckGroupCompParamsOptions|CHECKGROUPCOMPPARAMS=Comment=0,Description=0,Value=0,Footprint=1
+|RECORD=ManufacturerLinkOptions|MANUFACTURERLINKPARAMETERS=
+|RECORD=FavoriteSuppliers|PARTSOURCES=|SUPPLIERS=|USESUPPLIERORDER=False
+|RECORD=CheckOptions|CHECKLEVELS=
+|RECORD=ExternalCheckOptions|CHECKLEVELS=
+|RECORD=LineNumberingOptions|STARTVALUE=|INCREMENT=
+|RECORD=Catalog|DBLINKFILEPATH=
+|RECORD=CatalogItem|ITEMTYPE=Automatic-NonVault|UNIQUEID=Schlib1.SchLib\KB2040|DESIGNITEMID=KB2040|ITEMSOURCE=Schlib1.SchLib|STATUS=Unknown|DESCRIPTION=Keyboard IC breakour board|USERCOMMENTS=KB2040|NOTE=|LINENUMBER=|SELECTEDPARAMETERSHASH=KB2040,"Keyboard IC breakour board"|COMPONENTPARAMETERS=Comment=KB2040,"Component Kind=Standard",ComponentLink1Description=Datasheet,ComponentLink1URL=https://learn.adafruit.com/adafruit-kb2040/overview,"Description=Keyboard IC breakour board",Footprint=KB2040,"Ibis Model=","Library Name=Schlib1.SchLib","Library Reference=KB2040",PCB3D=,"Pin Info=","Signal Integrity=",Simulation=|CUSTOMPARAMETERS=
+|RECORD=PartChoiceGroups|GROUPBYFIELDCOUNT=0
+|RECORD=CatalogItem|ITEMTYPE=Automatic-Vault|UNIQUEID=E5C7CA3C-D962-4F98-9B09-826F55B37EAC\5D2C2E25-8A6C-4735-A832-8BAE937A1DDD|DESIGNITEMID=CMP-2000-06718-1|ITEMSOURCE=Altium Content Vault|STATUS=Unknown|DESCRIPTION=Keyboard Switch, SPST, IP40, 12 V Max, 10 mA Max, -40 to 70 degC, 4-Pin THD, RoHS, Bulk|USERCOMMENTS=ML1A-11JW|NOTE=|LINENUMBER=|SELECTEDPARAMETERSHASH=|COMPONENTPARAMETERS=|CUSTOMPARAMETERS=
+|RECORD=PartChoiceGroups|GROUPBYFIELDCOUNT=0
