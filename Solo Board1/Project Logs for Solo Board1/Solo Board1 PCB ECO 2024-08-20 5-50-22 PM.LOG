@@ -1,0 +1,8 @@
+Added Component: Designator=R1(POT_PTA6043)
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Bourns Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=R1-1
+Added Pin To Net: NetName=LIN_POT Pin=R1-2
+Added Pin To Net: NetName=3V3 Pin=R1-3
+Added Member To Class: ClassName=Solo Board1 Member=Component R1 PTA6043-2015DPB103

@@ -1,0 +1,53 @@
+Added Component: Designator=D?(DIOD-SOD123-2_V)
+Added Component: Designator=D?(DIOD-SOD123-2_V)
+Added Component: Designator=D?(DIOD-SOD123-2_V)
+Added Component: Designator=D?(DIOD-SOD123-2_V)
+Added Component: Designator=D?(DIOD-SOD123-2_V)
+Added Component: Designator=D?(DIOD-SOD123-2_V)
+Added Component: Designator=D?(DIOD-SOD123-2_V)
+Added Component: Designator=D?(DIOD-SOD123-2_V)
+Added Component: Designator=D?(DIOD-SOD123-2_V)
+Added Component: Designator=SW?(CHRY-ML1A-11JW_V)
+Added Component: Designator=SW?(CHRY-ML1A-11JW_V)
+Added Component: Designator=SW?(CHRY-ML1A-11JW_V)
+Added Component: Designator=SW?(CHRY-ML1A-11JW_V)
+Added Component: Designator=SW?(CHRY-ML1A-11JW_V)
+Added Component: Designator=SW?(CHRY-ML1A-11JW_V)
+Added Component: Designator=SW?(CHRY-ML1A-11JW_V)
+Added Component: Designator=SW?(CHRY-ML1A-11JW_V)
+Added Pin To Net: NetName=NetD?_1 Pin=SW?-2
+Added Net: Name=NetD?_1
+Add Net: Net with name "NetD?_1" already exists
+Add Net: Net with name "NetD?_1" already exists
+Add Net: Net with name "NetD?_1" already exists
+Add Net: Net with name "NetD?_1" already exists
+Add Net: Net with name "NetD?_1" already exists
+Add Net: Net with name "NetD?_1" already exists
+Add Net: Net with name "NetD?_1" already exists
+Add Net: Net with name "NetD?_1" already exists
+Added Pin To Net: NetName=READ0 Pin=SW?-1
+Added Net: Name=READ0
+Added Pin To Net: NetName=READ1 Pin=SW?-1
+Added Net: Name=READ1
+Added Pin To Net: NetName=READ2 Pin=SW?-1
+Added Net: Name=READ2
+Added Net: Name=SCAN0
+Added Net: Name=SCAN1
+Added Net: Name=SCAN2
+Add Class Member: Failed to add class member : Component D? 1N4148W-7-F
+Add Class Member: Failed to add class member : Component D? 1N4148W-7-F
+Add Class Member: Failed to add class member : Component D? 1N4148W-7-F
+Add Class Member: Failed to add class member : Component D? 1N4148W-7-F
+Add Class Member: Failed to add class member : Component D? 1N4148W-7-F
+Add Class Member: Failed to add class member : Component D? 1N4148W-7-F
+Add Class Member: Failed to add class member : Component D? 1N4148W-7-F
+Add Class Member: Failed to add class member : Component D? 1N4148W-7-F
+Add Class Member: Failed to add class member : Component D? 1N4148W-7-F
+Added Member To Class: ClassName=Solo Board1 Member=Component SW? ML1A-11JW
+Added Member To Class: ClassName=Solo Board1 Member=Component SW? ML1A-11JW
+Added Member To Class: ClassName=Solo Board1 Member=Component SW? ML1A-11JW
+Added Member To Class: ClassName=Solo Board1 Member=Component SW? ML1A-11JW
+Added Member To Class: ClassName=Solo Board1 Member=Component SW? ML1A-11JW
+Added Member To Class: ClassName=Solo Board1 Member=Component SW? ML1A-11JW
+Added Member To Class: ClassName=Solo Board1 Member=Component SW? ML1A-11JW
+Added Member To Class: ClassName=Solo Board1 Member=Component SW? ML1A-11JW

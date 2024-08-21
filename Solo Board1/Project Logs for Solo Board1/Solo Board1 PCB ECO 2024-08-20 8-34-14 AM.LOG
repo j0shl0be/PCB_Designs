@@ -1,0 +1,71 @@
+Removed Pin From Net: NetName=READ2 Pin=SW?-1
+Change Component Designator: OldDesignator=SW? NewDesignator=SW1
+Change Component Designator: OldDesignator=U? NewDesignator=U1
+Added Component: Designator=D1(DIOD-SOD123-2_V)
+Added Component: Designator=D2(DIOD-SOD123-2_V)
+Added Component: Designator=D3(DIOD-SOD123-2_V)
+Added Component: Designator=D4(DIOD-SOD123-2_V)
+Added Component: Designator=D5(DIOD-SOD123-2_V)
+Added Component: Designator=D6(DIOD-SOD123-2_V)
+Added Component: Designator=D7(DIOD-SOD123-2_V)
+Added Component: Designator=D8(DIOD-SOD123-2_V)
+Added Component: Designator=D9(DIOD-SOD123-2_V)
+Added Component: Designator=SW2(CHRY-ML1A-11JW_V)
+Added Component: Designator=SW3(CHRY-ML1A-11JW_V)
+Added Component: Designator=SW4(CHRY-ML1A-11JW_V)
+Added Component: Designator=SW5(CHRY-ML1A-11JW_V)
+Added Component: Designator=SW6(CHRY-ML1A-11JW_V)
+Added Component: Designator=SW7(CHRY-ML1A-11JW_V)
+Added Component: Designator=SW8(CHRY-ML1A-11JW_V)
+Added Component: Designator=SW9(CHRY-ML1A-11JW_V)
+Add Pin To Net: Unknown Pin: Pin D1-2
+Add Pin To Net: Unknown Pin: Pin D2-2
+Add Pin To Net: Unknown Pin: Pin D3-2
+Add Pin To Net: Unknown Pin: Pin D4-2
+Add Pin To Net: Unknown Pin: Pin D5-2
+Add Pin To Net: Unknown Pin: Pin D6-2
+Add Pin To Net: Unknown Pin: Pin D7-2
+Add Pin To Net: Unknown Pin: Pin D8-2
+Add Pin To Net: Unknown Pin: Pin D9-2
+Added Pin To Net: NetName=READ0 Pin=SW1-1
+Add Pin To Net: Unknown Pin: Pin SW2-1
+Add Pin To Net: Unknown Pin: Pin SW3-1
+Add Pin To Net: Unknown Pin: Pin SW4-1
+Add Pin To Net: Unknown Pin: Pin SW5-1
+Add Pin To Net: Unknown Pin: Pin SW6-1
+Add Pin To Net: Unknown Pin: Pin SW7-1
+Add Pin To Net: Unknown Pin: Pin SW8-1
+Add Pin To Net: Unknown Pin: Pin SW9-1
+Add Pin To Net: Unknown Pin: Pin U1-108
+Add Pin To Net: Unknown Pin: Pin U1-109
+Add Pin To Net: Unknown Pin: Pin U1-112
+Add Pin To Net: Unknown Pin: Pin U1-113
+Add Pin To Net: Unknown Pin: Pin U1-114
+Add Pin To Net: Unknown Pin: Pin U1-115
+Added Pin To Net: NetName=NetD1_1 Pin=SW1-2
+Added Net: Name=NetD1_1
+Added Net: Name=NetD2_1
+Added Net: Name=NetD3_1
+Added Net: Name=NetD4_1
+Added Net: Name=NetD5_1
+Added Net: Name=NetD6_1
+Added Net: Name=NetD7_1
+Added Net: Name=NetD8_1
+Added Net: Name=NetD9_1
+Add Class Member: Failed to add class member : Component D1 1N4148W-7-F
+Add Class Member: Failed to add class member : Component D2 1N4148W-7-F
+Add Class Member: Failed to add class member : Component D3 1N4148W-7-F
+Add Class Member: Failed to add class member : Component D4 1N4148W-7-F
+Add Class Member: Failed to add class member : Component D5 1N4148W-7-F
+Add Class Member: Failed to add class member : Component D6 1N4148W-7-F
+Add Class Member: Failed to add class member : Component D7 1N4148W-7-F
+Add Class Member: Failed to add class member : Component D8 1N4148W-7-F
+Add Class Member: Failed to add class member : Component D9 1N4148W-7-F
+Add Class Member: Failed to add class member : Component SW2 ML1A-11JW
+Add Class Member: Failed to add class member : Component SW3 ML1A-11JW
+Add Class Member: Failed to add class member : Component SW4 ML1A-11JW
+Add Class Member: Failed to add class member : Component SW5 ML1A-11JW
+Add Class Member: Failed to add class member : Component SW6 ML1A-11JW
+Add Class Member: Failed to add class member : Component SW7 ML1A-11JW
+Add Class Member: Failed to add class member : Component SW8 ML1A-11JW
+Add Class Member: Failed to add class member : Component SW9 ML1A-11JW

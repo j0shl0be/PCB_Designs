@@ -1,0 +1,10 @@
+Added Component: Designator=U1(KB2040)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://learn.adafruit.com/adafruit-kb2040/overview"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=READ0 Pin=U1-108
+Added Pin To Net: NetName=READ1 Pin=U1-109
+Added Pin To Net: NetName=READ2 Pin=U1-112
+Added Pin To Net: NetName=SCAN0 Pin=U1-113
+Added Pin To Net: NetName=SCAN1 Pin=U1-114
+Added Pin To Net: NetName=SCAN2 Pin=U1-115
+Added Member To Class: ClassName=Solo Board1 Member=Component U1 KB2040

@@ -1,0 +1,6 @@
+Remove Pin=U1-108 From Net=READ0
+Remove Pin=U1-109 From Net=READ1
+Remove Pin=U1-112 From Net=READ2
+Remove Pin=U1-113 From Net=SCAN0
+Remove Pin=U1-114 From Net=SCAN1
+Remove Pin=U1-115 From Net=SCAN2

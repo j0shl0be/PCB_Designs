@@ -1,0 +1,11 @@
+Added Pin To Net: NetName=3V3 Pin=U1-124
+Added Net: Name=3V3
+Added Pin To Net: NetName=GND Pin=U1-110
+Added Pin To Net: NetName=GND Pin=U1-111
+Added Pin To Net: NetName=GND Pin=U1-122
+Added Net: Name=GND
+Added Pin To Net: NetName=LIN_POT Pin=U1-128
+Added Net: Name=LIN_POT
+Add Class Member: Failed to add class member : Component R1 PTA6043-2015DPB103
+Added Rule: Name=Schematic Supply Nets
+Added Rule: Name=Schematic Supply Nets_1
