@@ -1,0 +1,22 @@
+Output: Gerber X2 Files
+Type  : GerberX2
+From  : Variant [[No Variations]] of Project [Solo Board1.PrjPcb]
+   Generated File[Solo Board1_Copper_Signal_Top.gbr]
+   Generated File[Solo Board1_Copper_Signal_Bot.gbr]
+   Generated File[Solo Board1_Legend_Top.gbr]
+   Generated File[Solo Board1_Legend_Bot.gbr]
+   Generated File[Solo Board1_Soldermask_Top.gbr]
+   Generated File[Solo Board1_Soldermask_Bot.gbr]
+   Generated File[Solo Board1_Paste_Top.gbr]
+   Generated File[Solo Board1_Paste_Bot.gbr]
+   Generated File[Solo Board1_Profile.gbr]
+   Generated File[Solo Board1_NPTH_Drill.gbr]
+   Generated File[Solo Board1_PTH_Drill.gbr]
+   Generated File[Solo Board1.EXTREP]
+   Generated File[Solo Board1.REP]
+
+
+Files Generated   : 13
+Documents Printed : 0
+
+Finished Output Generation At 12:10:08 AM On 2024-08-28
