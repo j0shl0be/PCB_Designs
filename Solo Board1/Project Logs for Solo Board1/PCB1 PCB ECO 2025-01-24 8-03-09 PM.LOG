@@ -1,0 +1,135 @@
+Change Component Designator: OldDesignator=D? NewDesignator=D1
+Change Component Designator: OldDesignator=D? NewDesignator=D2
+Change Component Designator: OldDesignator=D? NewDesignator=D3
+Change Component Designator: OldDesignator=D? NewDesignator=D4
+Change Component Designator: OldDesignator=D? NewDesignator=D5
+Change Component Designator: OldDesignator=D? NewDesignator=D6
+Change Component Designator: OldDesignator=D? NewDesignator=D7
+Change Component Designator: OldDesignator=D? NewDesignator=D8
+Change Component Designator: OldDesignator=D? NewDesignator=D9
+Change Component Designator: OldDesignator=D? NewDesignator=D10
+Change Component Designator: OldDesignator=D? NewDesignator=D11
+Change Component Designator: OldDesignator=D? NewDesignator=D12
+Change Component Designator: OldDesignator=D? NewDesignator=D13
+Change Component Designator: OldDesignator=D? NewDesignator=D14
+Change Component Designator: OldDesignator=D? NewDesignator=D15
+Change Component Designator: OldDesignator=D? NewDesignator=D16
+Change Component Designator: OldDesignator=D? NewDesignator=D17
+Change Component Designator: OldDesignator=D? NewDesignator=D18
+Change Component Designator: OldDesignator=D? NewDesignator=D19
+Change Component Designator: OldDesignator=R? NewDesignator=R1
+Change Component Designator: OldDesignator=R? NewDesignator=R2
+Change Component Designator: OldDesignator=R? NewDesignator=R3
+Change Component Designator: OldDesignator=R? NewDesignator=R4
+Change Component Designator: OldDesignator=R? NewDesignator=R5
+Change Component Designator: OldDesignator=SW? NewDesignator=SW1
+Change Component Designator: OldDesignator=SW? NewDesignator=SW2
+Change Component Designator: OldDesignator=SW? NewDesignator=SW3
+Change Component Designator: OldDesignator=SW? NewDesignator=SW4
+Change Component Designator: OldDesignator=SW? NewDesignator=SW5
+Change Component Designator: OldDesignator=SW? NewDesignator=SW6
+Change Component Designator: OldDesignator=SW? NewDesignator=SW7
+Change Component Designator: OldDesignator=SW? NewDesignator=SW8
+Change Component Designator: OldDesignator=SW? NewDesignator=SW9
+Change Component Designator: OldDesignator=U? NewDesignator=U1
+Change Component Designator: OldDesignator=U? NewDesignator=U2
+Added Component: Designator=C1(CAPC3216X190X55LL30T25)
+Add component (AddParameter): Name = "Capacitor Type"; Value = "Ceramic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ripple Current"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ripple Current (AC)"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "True"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100µF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "6.3V"; VariantName = "[No Variations]"
+Added Component: Designator=C3(CAPC3216X190X55LL30T25)
+Add component (AddParameter): Name = "Capacitor Type"; Value = "Ceramic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ripple Current"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ripple Current (AC)"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "True"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100µF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "6.3V"; VariantName = "[No Variations]"
+Added Component: Designator=J1(NPTC042KFMS-RC-Footprint-1)
+Add component (AddParameter): Name = "Case/Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = "BOARD CONNECTOR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Current Rating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Board"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number Of Connectors"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=SDA_0 Pin=J1-1
+Added Pin To Net: NetName=SCL_0 Pin=J1-2
+Added Pin To Net: NetName=+5 Pin=J1-3
+Added Pin To Net: NetName=GND Pin=J1-4
+Added Pin To Net: NetName=+5 Pin=J1-5
+Added Pin To Net: NetName=GND Pin=J1-6
+Added Pin To Net: NetName=SCL_0 Pin=J1-7
+Added Pin To Net: NetName=SDA_0 Pin=J1-8
+Change Net Name : Old Net Name=NetD?_1 New Net Name=NetD8_1
+Change Net Name : Old Net Name=NetD?_1 New Net Name=NetD9_1
+Change Net Name : Old Net Name=NetD?_1 New Net Name=NetD10_1
+Change Net Name : Old Net Name=NetD?_1 New Net Name=NetD12_1
+Change Net Name : Old Net Name=NetD?_1 New Net Name=NetD13_1
+Change Net Name : Old Net Name=NetD?_1 New Net Name=NetD14_1
+Change Net Name : Old Net Name=NetD?_1 New Net Name=NetD16_1
+Change Net Name : Old Net Name=NetD?_1 New Net Name=NetD17_1
+Change Net Name : Old Net Name=NetD?_1 New Net Name=NetD18_1
+Change Net Name : Old Net Name=NetD?_2 New Net Name=NetD1_2
+Change Net Name : Old Net Name=NetD?_2 New Net Name=NetD1_4
+Change Net Name : Old Net Name=NetD?_2 New Net Name=NetD2_2
+Change Net Name : Old Net Name=NetD?_2 New Net Name=NetD2_4
+Change Net Name : Old Net Name=NetD?_2 New Net Name=NetD3_4
+Change Net Name : Old Net Name=NetD?_2 New Net Name=NetD4_4
+Change Net Name : Old Net Name=NetD?_2 New Net Name=NetD5_4
+Change Net Name : Old Net Name=NetD?_2 New Net Name=NetD7_4
+Change Net Name : Old Net Name=NetD?_2 New Net Name=NetD11_4
+Change Net Name : Old Net Name=NetD?_2 New Net Name=NetD15_4
+Change Net Name : Old Net Name=NetR?_1 New Net Name=NetR1_1
+Added Member To Class: ClassName=Solo Board1 Member=Component C1 Capacitor 100 uF +/- 20% 6.3 V 1206
+Added Member To Class: ClassName=Solo Board1 Member=Component C3 Capacitor 100 uF +/- 20% 6.3 V 1206
+Added Member To Class: ClassName=Solo Board1 Member=Component D1 1655
+Added Member To Class: ClassName=Solo Board1 Member=Component D2 1655
+Added Member To Class: ClassName=Solo Board1 Member=Component D3 1655
+Added Member To Class: ClassName=Solo Board1 Member=Component D4 1655
+Added Member To Class: ClassName=Solo Board1 Member=Component D5 1655
+Added Member To Class: ClassName=Solo Board1 Member=Component D6 1655
+Added Member To Class: ClassName=Solo Board1 Member=Component D7 1655
+Added Member To Class: ClassName=Solo Board1 Member=Component D9 1N4148W-7-F
+Added Member To Class: ClassName=Solo Board1 Member=Component D10 1N4148W-7-F
+Added Member To Class: ClassName=Solo Board1 Member=Component D11 1655
+Added Member To Class: ClassName=Solo Board1 Member=Component D12 1N4148W-7-F
+Added Member To Class: ClassName=Solo Board1 Member=Component D13 1N4148W-7-F
+Added Member To Class: ClassName=Solo Board1 Member=Component D14 1N4148W-7-F
+Added Member To Class: ClassName=Solo Board1 Member=Component D15 1655
+Added Member To Class: ClassName=Solo Board1 Member=Component D16 1N4148W-7-F
+Added Member To Class: ClassName=Solo Board1 Member=Component D17 1N4148W-7-F
+Added Member To Class: ClassName=Solo Board1 Member=Component D18 1N4148W-7-F
+Added Member To Class: ClassName=Solo Board1 Member=Component D19 1655
+Added Member To Class: ClassName=Solo Board1 Member=Component J1 NPTC042KFMS-RC
+Added Member To Class: ClassName=Solo Board1 Member=Component R1 Resistor 470R +/-5% 0805 125 mW
+Added Member To Class: ClassName=Solo Board1 Member=Component R2 Resistor 10k +/-1% 0805 125 mW
+Added Member To Class: ClassName=Solo Board1 Member=Component R3 PTA6043-2015DPB103
+Added Member To Class: ClassName=Solo Board1 Member=Component R4 Resistor 10k +/-1% 0805 125 mW
+Added Member To Class: ClassName=Solo Board1 Member=Component SW1 ML1A-11JW
+Added Member To Class: ClassName=Solo Board1 Member=Component SW2 ML1A-11JW
+Added Member To Class: ClassName=Solo Board1 Member=Component SW4 ML1A-11JW
+Added Member To Class: ClassName=Solo Board1 Member=Component SW5 ML1A-11JW
+Added Member To Class: ClassName=Solo Board1 Member=Component SW6 ML1A-11JW
+Added Member To Class: ClassName=Solo Board1 Member=Component SW7 ML1A-11JW
+Added Member To Class: ClassName=Solo Board1 Member=Component SW8 ML1A-11JW
+Added Member To Class: ClassName=Solo Board1 Member=Component SW9 ML1A-11JW
+Added Member To Class: ClassName=Solo Board1 Member=Component U1 KB2040

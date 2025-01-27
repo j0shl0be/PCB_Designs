@@ -1,0 +1,220 @@
+Wire List
+
+<<< Component List >>>
+Capacitor 100 uF +/- 20% 6.3 V 1206C1             CAPC3216X190X55LL30T25
+Capacitor 100 uF +/- 20% 6.3 V 1206C2             CAPC3216X190X55LL30T25
+Capacitor 100 uF +/- 20% 6.3 V 1206C3             CAPC3216X190X55LL30T25
+1655                            D?             LED_1655
+1655                            D?             LED_1655
+1655                            D?             LED_1655
+1655                            D?             LED_1655
+1655                            D?             LED_1655
+1655                            D?             LED_1655
+1655                            D?             LED_1655
+1N4148W-7-F                     D?             DIOD-SOD123-2_V
+1N4148W-7-F                     D?             DIOD-SOD123-2_V
+1N4148W-7-F                     D?             DIOD-SOD123-2_V
+1655                            D?             LED_1655
+1N4148W-7-F                     D?             DIOD-SOD123-2_V
+1N4148W-7-F                     D?             DIOD-SOD123-2_V
+1N4148W-7-F                     D?             DIOD-SOD123-2_V
+1655                            D?             LED_1655
+1N4148W-7-F                     D?             DIOD-SOD123-2_V
+1N4148W-7-F                     D?             DIOD-SOD123-2_V
+1N4148W-7-F                     D?             DIOD-SOD123-2_V
+1655                            D?             LED_1655
+NPTC042KFMS-RC                  J1             NPTC042KFMS-RC-Footprint-1
+Resistor 470R +/-5% 0805 125 mW R?             RESC0805(2012)_L
+Resistor 10k +/-1% 0805 125 mW  R?             RESC2013X50X35ML15T15
+PTA6043-2015DPB103              R?             POT_PTA6043
+Resistor 10k +/-1% 0805 125 mW  R?             RESC2013X50X35ML15T15
+Resistor 10k +/-1% 0805 125 mW  R?             RESC2013X50X35ML15T15
+ML1A-11JW                       SW?            CHRY-ML1A-11JW_V
+ML1A-11JW                       SW?            CHRY-ML1A-11JW_V
+ML1A-11JW                       SW?            CHRY-ML1A-11JW_V
+ML1A-11JW                       SW?            CHRY-ML1A-11JW_V
+ML1A-11JW                       SW?            CHRY-ML1A-11JW_V
+ML1A-11JW                       SW?            CHRY-ML1A-11JW_V
+ML1A-11JW                       SW?            CHRY-ML1A-11JW_V
+ML1A-11JW                       SW?            CHRY-ML1A-11JW_V
+ML1A-11JW                       SW?            CHRY-ML1A-11JW_V
+KB2040                          U?             KB2040
+SN74LVC1T45DCKR                 U?             DCK0006A_M
+
+<<< Wire List >>>
+
+  NODE  REFERENCE  PIN #   PIN NAME       PIN TYPE    PART VALUE
+
+[00077] SDA_0
+        U?         118     D8             PASSIVE     KB2040
+
+[00076] SCL_0
+        U?         119     D9             PASSIVE     KB2040
+
+[00075] SCAN2
+        D?         2       K              PASSIVE     1N4148W-7-F
+        D?         2       K              PASSIVE     1N4148W-7-F
+        D?         2       K              PASSIVE     1N4148W-7-F
+        R?         2       2              PASSIVE     Resistor 10k +/-1% 0805 125 mW
+        U?         115     D5             PASSIVE     KB2040
+
+[00074] SCAN1
+        D?         2       K              PASSIVE     1N4148W-7-F
+        D?         2       K              PASSIVE     1N4148W-7-F
+        D?         2       K              PASSIVE     1N4148W-7-F
+        R?         2       2              PASSIVE     Resistor 10k +/-1% 0805 125 mW
+        U?         114     D4             PASSIVE     KB2040
+
+[00073] SCAN0
+        D?         2       K              PASSIVE     1N4148W-7-F
+        D?         2       K              PASSIVE     1N4148W-7-F
+        D?         2       K              PASSIVE     1N4148W-7-F
+        R?         2       2              PASSIVE     Resistor 10k +/-1% 0805 125 mW
+        U?         113     D3             PASSIVE     KB2040
+
+[00072] READ2
+        SW?        1       1              PASSIVE     ML1A-11JW
+        SW?        1       1              PASSIVE     ML1A-11JW
+        SW?        1       1              PASSIVE     ML1A-11JW
+        U?         112     D2             PASSIVE     KB2040
+
+[00071] READ1
+        SW?        1       1              PASSIVE     ML1A-11JW
+        SW?        1       1              PASSIVE     ML1A-11JW
+        SW?        1       1              PASSIVE     ML1A-11JW
+        U?         109     D1             PASSIVE     KB2040
+
+[00070] READ0
+        SW?        1       1              PASSIVE     ML1A-11JW
+        SW?        1       1              PASSIVE     ML1A-11JW
+        SW?        1       1              PASSIVE     ML1A-11JW
+        U?         108     D0             PASSIVE     KB2040
+
+[00040] NetR?_1
+        R?         1       1              PASSIVE     Resistor 470R +/-5% 0805 125 mW
+        U?         4       B              I/O         SN74LVC1T45DCKR
+
+[00021] NetD?_2
+        D?         2       DIN            INPUT       1655
+        D?         4       DOUT           OUTPUT      1655
+
+[00022] NetD?_2
+        D?         2       DIN            INPUT       1655
+        D?         4       DOUT           OUTPUT      1655
+
+[00023] NetD?_2
+        D?         2       DIN            INPUT       1655
+        D?         4       DOUT           OUTPUT      1655
+
+[00024] NetD?_2
+        D?         2       DIN            INPUT       1655
+        D?         4       DOUT           OUTPUT      1655
+
+[00025] NetD?_2
+        D?         2       DIN            INPUT       1655
+        D?         4       DOUT           OUTPUT      1655
+
+[00026] NetD?_2
+        D?         2       DIN            INPUT       1655
+        D?         4       DOUT           OUTPUT      1655
+
+[00027] NetD?_2
+        D?         2       DIN            INPUT       1655
+        R?         2       2              PASSIVE     Resistor 470R +/-5% 0805 125 mW
+
+[00028] NetD?_2
+        D?         2       DIN            INPUT       1655
+        D?         4       DOUT           OUTPUT      1655
+
+[00029] NetD?_2
+        D?         2       DIN            INPUT       1655
+        D?         4       DOUT           OUTPUT      1655
+
+[00030] NetD?_2
+        D?         2       DIN            INPUT       1655
+        D?         4       DOUT           OUTPUT      1655
+
+[00012] NetD?_1
+        D?         1       A              PASSIVE     1N4148W-7-F
+        SW?        2       2              PASSIVE     ML1A-11JW
+
+[00013] NetD?_1
+        D?         1       A              PASSIVE     1N4148W-7-F
+        SW?        2       2              PASSIVE     ML1A-11JW
+
+[00014] NetD?_1
+        D?         1       A              PASSIVE     1N4148W-7-F
+        SW?        2       2              PASSIVE     ML1A-11JW
+
+[00015] NetD?_1
+        D?         1       A              PASSIVE     1N4148W-7-F
+        SW?        2       2              PASSIVE     ML1A-11JW
+
+[00016] NetD?_1
+        D?         1       A              PASSIVE     1N4148W-7-F
+        SW?        2       2              PASSIVE     ML1A-11JW
+
+[00017] NetD?_1
+        D?         1       A              PASSIVE     1N4148W-7-F
+        SW?        2       2              PASSIVE     ML1A-11JW
+
+[00018] NetD?_1
+        D?         1       A              PASSIVE     1N4148W-7-F
+        SW?        2       2              PASSIVE     ML1A-11JW
+
+[00019] NetD?_1
+        D?         1       A              PASSIVE     1N4148W-7-F
+        SW?        2       2              PASSIVE     ML1A-11JW
+
+[00020] NetD?_1
+        D?         1       A              PASSIVE     1N4148W-7-F
+        SW?        2       2              PASSIVE     ML1A-11JW
+
+[00005] LIN_POT
+        R?         2       2              PASSIVE     PTA6043-2015DPB103
+        U?         128     A0             PASSIVE     KB2040
+
+[00004] LED_Din
+        U?         3       A              I/O         SN74LVC1T45DCKR
+        U?         132     D10            PASSIVE     KB2040
+
+[00003] GND
+        D?         1       VSS            POWER       1655
+        D?         1       VSS            POWER       1655
+        D?         1       VSS            POWER       1655
+        D?         1       VSS            POWER       1655
+        D?         1       VSS            POWER       1655
+        D?         1       VSS            POWER       1655
+        D?         1       VSS            POWER       1655
+        D?         1       VSS            POWER       1655
+        D?         1       VSS            POWER       1655
+        D?         1       VSS            POWER       1655
+        R?         1       1              PASSIVE     Resistor 10k +/-1% 0805 125 mW
+        R?         1       1              PASSIVE     Resistor 10k +/-1% 0805 125 mW
+        R?         1       1              PASSIVE     Resistor 10k +/-1% 0805 125 mW
+        R?         1       1              PASSIVE     PTA6043-2015DPB103
+        U?         2       GND            POWER       SN74LVC1T45DCKR
+        U?         110     GND            PASSIVE     KB2040
+        U?         111     GND            PASSIVE     KB2040
+        U?         122     GND            PASSIVE     KB2040
+
+[00002] +5
+        D?         3       VDD            POWER       1655
+        D?         3       VDD            POWER       1655
+        D?         3       VDD            POWER       1655
+        D?         3       VDD            POWER       1655
+        D?         3       VDD            POWER       1655
+        D?         3       VDD            POWER       1655
+        D?         3       VDD            POWER       1655
+        D?         3       VDD            POWER       1655
+        D?         3       VDD            POWER       1655
+        D?         3       VDD            POWER       1655
+        U?         6       VCCB           POWER       SN74LVC1T45DCKR
+        U?         121     RAW            PASSIVE     KB2040
+
+[00001] 3V3
+        R?         3       3              PASSIVE     PTA6043-2015DPB103
+        U?         1       VCCA           POWER       SN74LVC1T45DCKR
+        U?         5       DIR            INPUT       SN74LVC1T45DCKR
+        U?         124     3.3V           PASSIVE     KB2040
+

@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=3V3 Pin=D6-2
+Added Pin To Net: NetName=NetD4_4 Pin=D6-2
+Added Member To Class: ClassName=Solo Board1 Member=Component D1 1655
+Added Member To Class: ClassName=Solo Board1 Member=Component D8 1N4148W-7-F
+Added Member To Class: ClassName=Solo Board1 Member=Component D9 1N4148W-7-F
+Added Member To Class: ClassName=Solo Board1 Member=Component D12 1N4148W-7-F
+Added Member To Class: ClassName=Solo Board1 Member=Component D13 1N4148W-7-F
+Added Member To Class: ClassName=Solo Board1 Member=Component D14 1N4148W-7-F
+Added Member To Class: ClassName=Solo Board1 Member=Component D16 1N4148W-7-F
+Added Member To Class: ClassName=Solo Board1 Member=Component D17 1N4148W-7-F
+Added Member To Class: ClassName=Solo Board1 Member=Component R3 PTA6043-2015DPB103
+Added Member To Class: ClassName=Solo Board1 Member=Component R5 Resistor 10k +/-1% 0805 125 mW

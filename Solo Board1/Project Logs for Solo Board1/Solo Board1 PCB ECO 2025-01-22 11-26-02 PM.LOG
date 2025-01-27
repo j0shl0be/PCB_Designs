@@ -1,0 +1,42 @@
+Change Component Footprint: Designator=R2 Old Footprint=RESC1005X40X25LL05T05 New Footprint=RESC2013X50X35ML15T15
+Change Component Footprint: Designator=R3 Old Footprint=RESC1005X40X25ML05T05 New Footprint=RESC2013X50X35ML15T15
+Change Component Footprint: Designator=R4 Old Footprint=RESC1005X40X25ML05T05 New Footprint=RESC2013X50X35ML15T15
+Change Component Comment : Designator=R2 Old Comment=Resistor 10k +/-1% 0402 100 mW New Comment=Resistor 10k +/-1% 0805 125 mW
+Change Component Comment : Designator=R3 Old Comment=Resistor 10k +/-1% 0402 100 mW New Comment=Resistor 10k +/-1% 0805 125 mW
+Change Component Comment : Designator=R4 Old Comment=Resistor 10k +/-1% 0402 100 mW New Comment=Resistor 10k +/-1% 0805 125 mW
+Change Managed Component Library Link : Designator=R2 Old VaultGUID=33081A32-073C-4564-9041-B7772C5021DA New VaultGUID=F597D1A7-EBDF-49D6-916D-D24CE9A63AD4 Old ItemGUID=46D526EE-9CDB-4C29-B938-8FCBA52E590F New ItemGUID=E6D55D1A-2D5F-47C4-989E-9DD97472BEB5 Old RevisionGUID=D66FDC77-D0CD-4562-9ECB-E5A62ED5982D New RevisionGUID=D8299515-AB00-4BBF-BD9A-3417E0114DC4
+Change Managed Component Library Link : Designator=R3 Old VaultGUID=33081A32-073C-4564-9041-B7772C5021DA New VaultGUID=F597D1A7-EBDF-49D6-916D-D24CE9A63AD4 Old ItemGUID=46D526EE-9CDB-4C29-B938-8FCBA52E590F New ItemGUID=E6D55D1A-2D5F-47C4-989E-9DD97472BEB5 Old RevisionGUID=D66FDC77-D0CD-4562-9ECB-E5A62ED5982D New RevisionGUID=D8299515-AB00-4BBF-BD9A-3417E0114DC4
+Change Managed Component Library Link : Designator=R4 Old VaultGUID=33081A32-073C-4564-9041-B7772C5021DA New VaultGUID=F597D1A7-EBDF-49D6-916D-D24CE9A63AD4 Old ItemGUID=46D526EE-9CDB-4C29-B938-8FCBA52E590F New ItemGUID=E6D55D1A-2D5F-47C4-989E-9DD97472BEB5 Old RevisionGUID=D66FDC77-D0CD-4562-9ECB-E5A62ED5982D New RevisionGUID=D8299515-AB00-4BBF-BD9A-3417E0114DC4
+Change component parameters: Designator = "R2" ("R2"); Footprint = "RESC1005X40X25LL05T05"; UniqueID = "\EQMPBEPI" ("\EQMPBEPI")
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "155°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "SM"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pins"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "125mW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS Compliant"; Value = "True"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "150V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R3" ("R3"); Footprint = "RESC1005X40X25ML05T05"; UniqueID = "\KLAHYOCV" ("\KLAHYOCV")
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "155°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "SM"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pins"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "125mW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS Compliant"; Value = "True"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "150V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R4" ("R4"); Footprint = "RESC1005X40X25ML05T05"; UniqueID = "\XIUKEMDZ" ("\XIUKEMDZ")
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "155°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "SM"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pins"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "125mW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS Compliant"; Value = "True"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "150V"; VariantName = "[No Variations]"

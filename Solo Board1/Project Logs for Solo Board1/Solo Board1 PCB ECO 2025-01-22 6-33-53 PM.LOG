@@ -1,0 +1,96 @@
+Added Component: Designator=D14(LED_1655)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design Item ID"; Value = "1655"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "1655"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "1655.SchLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D15(LED_1655)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design Item ID"; Value = "1655"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "1655"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "1655.SchLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D16(LED_1655)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design Item ID"; Value = "1655"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "1655"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "1655.SchLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D17(LED_1655)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design Item ID"; Value = "1655"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "1655"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "1655.SchLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D18(LED_1655)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design Item ID"; Value = "1655"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "1655"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "1655.SchLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D19(LED_1655)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design Item ID"; Value = "1655"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "1655"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "1655.SchLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=D14-1
+Added Pin To Net: NetName=+5 Pin=D14-3
+Added Pin To Net: NetName=GND Pin=D15-1
+Added Pin To Net: NetName=+5 Pin=D15-3
+Added Pin To Net: NetName=GND Pin=D16-1
+Added Pin To Net: NetName=+5 Pin=D16-3
+Added Pin To Net: NetName=GND Pin=D17-1
+Added Pin To Net: NetName=+5 Pin=D17-3
+Added Pin To Net: NetName=GND Pin=D18-1
+Added Pin To Net: NetName=+5 Pin=D18-3
+Added Pin To Net: NetName=GND Pin=D19-1
+Added Pin To Net: NetName=+5 Pin=D19-3
+Added Pin To Net: NetName=NetD13_4 Pin=D13-4
+Added Pin To Net: NetName=NetD13_4 Pin=D17-2
+Added Net: Name=NetD13_4
+Added Pin To Net: NetName=NetD14_2 Pin=D14-2
+Added Pin To Net: NetName=NetD14_2 Pin=D19-4
+Added Net: Name=NetD14_2
+Added Pin To Net: NetName=NetD14_4 Pin=D14-4
+Added Pin To Net: NetName=NetD14_4 Pin=D15-2
+Added Net: Name=NetD14_4
+Added Pin To Net: NetName=NetD15_4 Pin=D15-4
+Added Pin To Net: NetName=NetD15_4 Pin=D16-2
+Added Net: Name=NetD15_4
+Added Pin To Net: NetName=NetD17_4 Pin=D17-4
+Added Pin To Net: NetName=NetD17_4 Pin=D18-2
+Added Net: Name=NetD17_4
+Added Pin To Net: NetName=NetD18_4 Pin=D18-4
+Added Pin To Net: NetName=NetD18_4 Pin=D19-2
+Added Net: Name=NetD18_4
+Added Member To Class: ClassName=Solo Board1 Member=Component D14 1655
+Added Member To Class: ClassName=Solo Board1 Member=Component D15 1655
+Added Member To Class: ClassName=Solo Board1 Member=Component D16 1655
+Added Member To Class: ClassName=Solo Board1 Member=Component D17 1655
+Added Member To Class: ClassName=Solo Board1 Member=Component D18 1655
+Added Member To Class: ClassName=Solo Board1 Member=Component D19 1655

@@ -1,0 +1,21 @@
+Added Component: Designator=H*(NPTC042KFMS-RC-Footprint-1)
+Add component (AddParameter): Name = "Case/Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = "BOARD CONNECTOR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Current Rating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Board"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number Of Connectors"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=SCL_0 Pin=H*-2
+Added Pin To Net: NetName=SCL_0 Pin=H*-7
+Added Pin To Net: NetName=SCL_0 Pin=U1-119
+Added Net: Name=SCL_0
+Added Pin To Net: NetName=SDA_0 Pin=H*-1
+Added Pin To Net: NetName=SDA_0 Pin=H*-8
+Added Pin To Net: NetName=SDA_0 Pin=U1-118
+Added Net: Name=SDA_0
+Added Member To Class: ClassName=Solo Board1 Member=Component H* NPTC042KFMS-RC

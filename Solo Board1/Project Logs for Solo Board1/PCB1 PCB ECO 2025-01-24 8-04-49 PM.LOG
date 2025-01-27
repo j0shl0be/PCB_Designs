@@ -1,0 +1,6 @@
+Removed Member From Class: ClassName=Solo Board1 Member=C1
+Removed Member From Class: ClassName=Solo Board1 Member=C3
+Added Member To Class: ClassName=Solo Board1 Member=Component D8 1N4148W-7-F
+Added Member To Class: ClassName=Solo Board1 Member=Component R5 Resistor 10k +/-1% 0805 125 mW
+Added Member To Class: ClassName=Solo Board1 Member=Component SW3 ML1A-11JW
+Added Member To Class: ClassName=Solo Board1 Member=Component U2 SN74LVC1T45DCKR

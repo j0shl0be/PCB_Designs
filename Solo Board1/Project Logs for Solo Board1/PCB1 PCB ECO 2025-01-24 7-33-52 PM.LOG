@@ -1,0 +1,55 @@
+Change Component Designator: OldDesignator=D1 NewDesignator=D?
+Change Component Designator: OldDesignator=D2 NewDesignator=D?
+Change Component Designator: OldDesignator=D3 NewDesignator=D?
+Change Component Designator: OldDesignator=D4 NewDesignator=D?
+Change Component Designator: OldDesignator=D5 NewDesignator=D?
+Change Component Designator: OldDesignator=D6 NewDesignator=D?
+Change Component Designator: OldDesignator=D7 NewDesignator=D?
+Change Component Designator: OldDesignator=D8 NewDesignator=D?
+Change Component Designator: OldDesignator=D9 NewDesignator=D?
+Change Component Designator: OldDesignator=D10 NewDesignator=D?
+Change Component Designator: OldDesignator=D11 NewDesignator=D?
+Change Component Designator: OldDesignator=D12 NewDesignator=D?
+Change Component Designator: OldDesignator=D13 NewDesignator=D?
+Change Component Designator: OldDesignator=D14 NewDesignator=D?
+Change Component Designator: OldDesignator=D15 NewDesignator=D?
+Change Component Designator: OldDesignator=D16 NewDesignator=D?
+Change Component Designator: OldDesignator=D17 NewDesignator=D?
+Change Component Designator: OldDesignator=D18 NewDesignator=D?
+Change Component Designator: OldDesignator=D19 NewDesignator=D?
+Change Component Designator: OldDesignator=R1 NewDesignator=R?
+Change Component Designator: OldDesignator=R2 NewDesignator=R?
+Change Component Designator: OldDesignator=R3 NewDesignator=R?
+Change Component Designator: OldDesignator=R4 NewDesignator=R?
+Change Component Designator: OldDesignator=R5 NewDesignator=R?
+Change Component Designator: OldDesignator=SW1 NewDesignator=SW?
+Change Component Designator: OldDesignator=SW2 NewDesignator=SW?
+Change Component Designator: OldDesignator=SW3 NewDesignator=SW?
+Change Component Designator: OldDesignator=SW4 NewDesignator=SW?
+Change Component Designator: OldDesignator=SW5 NewDesignator=SW?
+Change Component Designator: OldDesignator=SW6 NewDesignator=SW?
+Change Component Designator: OldDesignator=SW7 NewDesignator=SW?
+Change Component Designator: OldDesignator=SW8 NewDesignator=SW?
+Change Component Designator: OldDesignator=SW9 NewDesignator=SW?
+Change Component Designator: OldDesignator=U1 NewDesignator=U?
+Change Component Designator: OldDesignator=U2 NewDesignator=U?
+Change Net Name : Old Net Name=NetD1_2 New Net Name=NetD?_2
+Change Net Name : Old Net Name=NetD1_4 New Net Name=NetD?_2
+Change Net Name : Old Net Name=NetD2_2 New Net Name=NetD?_2
+Change Net Name : Old Net Name=NetD2_4 New Net Name=NetD?_2
+Change Net Name : Old Net Name=NetD3_4 New Net Name=NetD?_2
+Change Net Name : Old Net Name=NetD4_4 New Net Name=NetD?_2
+Change Net Name : Old Net Name=NetD5_4 New Net Name=NetD?_2
+Change Net Name : Old Net Name=NetD7_4 New Net Name=NetD?_2
+Change Net Name : Old Net Name=NetD8_1 New Net Name=NetD?_1
+Change Net Name : Old Net Name=NetD9_1 New Net Name=NetD?_1
+Change Net Name : Old Net Name=NetD10_1 New Net Name=NetD?_1
+Change Net Name : Old Net Name=NetD11_4 New Net Name=NetD?_2
+Change Net Name : Old Net Name=NetD12_1 New Net Name=NetD?_1
+Change Net Name : Old Net Name=NetD13_1 New Net Name=NetD?_1
+Change Net Name : Old Net Name=NetD14_1 New Net Name=NetD?_1
+Change Net Name : Old Net Name=NetD15_4 New Net Name=NetD?_2
+Change Net Name : Old Net Name=NetD16_1 New Net Name=NetD?_1
+Change Net Name : Old Net Name=NetD17_1 New Net Name=NetD?_1
+Change Net Name : Old Net Name=NetD18_1 New Net Name=NetD?_1
+Change Net Name : Old Net Name=NetR1_1 New Net Name=NetR?_1
