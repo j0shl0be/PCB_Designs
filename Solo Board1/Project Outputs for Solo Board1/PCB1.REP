@@ -2,38 +2,55 @@
 FileName = PCB1.GBR
 AutoAperture = True
 *************************************************************
-Generating : Dielectric 3
-      File : PCB1_Other_3.gbr
+Generating : GND
+      File : PCB1_Copper_Plane_2.gbr
 
-    Adding Layer      : Dielectric 3
+    Adding Layer      : GND
 
-
-Used DCodes :
-*************************************************************
-
-*************************************************************
-Generating : Dielectric 2
-      File : PCB1_Other_2.gbr
-
-    Adding Layer      : Dielectric 2
+    Adding Layer      : Multi-Layer
 
 
 Used DCodes :
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
 *************************************************************
 
 *************************************************************
-Generating : Dielectric 1
-      File : PCB1_Other_1.gbr
+Generating : Bottom Layer
+      File : PCB1_Copper_Signal_Bot.gbr
 
-    Adding Layer      : Dielectric 1
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
 
 
 Used DCodes :
+    D13
+    D23
+    D24
+    D26
+    D27
+    D28
+    D29
+    D39
+    D40
+    D41
+    D42
+    D43
 *************************************************************
 
 *************************************************************
-Generating : Multi-Layer
-      File : PCB1_Other.gbr
+Generating : Bottom Pad Master
+      File : PCB1_Pads_Bot.gbr
+
+    Adding Layer      : Bottom Layer
 
     Adding Layer      : Multi-Layer
 
@@ -44,56 +61,101 @@ Used DCodes :
     D26
     D27
     D28
+    D39
+    D40
+    D41
+    D42
+    D43
 *************************************************************
 
 *************************************************************
-Generating : Top Designator
-      File : PCB1_Top_Designator.gbr
+Generating : Top Pad Master
+      File : PCB1_Pads_Top.gbr
 
-    Adding Layer      : Top Designator
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
 
 
 Used DCodes :
+    D14
+    D15
+    D16
+    D23
+    D24
+    D26
+    D27
+    D28
 *************************************************************
 
 *************************************************************
-Generating : Top 3D Body
-      File : PCB1_Top_3D_Body.gbr
+Generating : Top Overlay
+      File : PCB1_Legend_Top.gbr
 
-    Adding Layer      : Top 3D Body
+    Adding Layer      : Top Overlay
 
 
 Used DCodes :
+    D10
+    D11
+    D12
+    D13
 *************************************************************
 
 *************************************************************
-Generating : Top Courtyard
-      File : PCB1_Top_Courtyard.gbr
+Generating : Bottom Overlay
+      File : PCB1_Legend_Bot.gbr
 
-    Adding Layer      : Top Courtyard
+    Adding Layer      : Bottom Overlay
 
 
 Used DCodes :
+    D10
+    D12
+    D13
+    D49
+    D50
+    D51
 *************************************************************
 
 *************************************************************
-Generating : Top Assembly
-      File : PCB1_Top_Assembly.gbr
+Generating : Top Solder
+      File : PCB1_Soldermask_Top.gbr
 
-    Adding Layer      : Top Assembly
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
 
 
 Used DCodes :
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
 *************************************************************
 
 *************************************************************
-Generating : Bottom Designator
-      File : PCB1_Bottom_Designator.gbr
+Generating : Top Paste
+      File : PCB1_Paste_Top.gbr
 
-    Adding Layer      : Bottom Designator
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
 
 
 Used DCodes :
+    D14
+    D15
+    D16
 *************************************************************
 
 *************************************************************
@@ -101,79 +163,6 @@ Generating : Bottom 3D Body
       File : PCB1_Bottom_3D_Body.gbr
 
     Adding Layer      : Bottom 3D Body
-
-
-Used DCodes :
-*************************************************************
-
-*************************************************************
-Generating : Bottom Courtyard
-      File : PCB1_Bottom_Courtyard.gbr
-
-    Adding Layer      : Bottom Courtyard
-
-
-Used DCodes :
-    D52
-*************************************************************
-
-*************************************************************
-Generating : Bottom Assembly
-      File : PCB1_Bottom_Assembly.gbr
-
-    Adding Layer      : Bottom Assembly
-
-
-Used DCodes :
-    D54
-*************************************************************
-
-*************************************************************
-Generating : Mechanical 15
-      File : PCB1_Mechanical_15.gbr
-
-    Adding Layer      : Mechanical 15
-
-
-Used DCodes :
-    D11
-    D52
-    D54
-*************************************************************
-
-*************************************************************
-Generating : Mechanical 13
-      File : PCB1_Mechanical_13.gbr
-
-    Adding Layer      : Mechanical 13
-
-
-Used DCodes :
-    D11
-    D12
-    D49
-    D53
-    D54
-    D55
-*************************************************************
-
-*************************************************************
-Generating : Mechanical 1
-      File : PCB1_Mechanical_1.gbr
-
-    Adding Layer      : Mechanical 1
-
-
-Used DCodes :
-    D13
-    D52
-*************************************************************
-
-*************************************************************
-Generating : Keep-Out Layer
-      File : PCB1_Keep-out.gbr
-
-    Adding Layer      : Keep-Out Layer
 
 
 Used DCodes :
@@ -199,20 +188,14 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Top Paste
-      File : PCB1_Paste_Top.gbr
+Generating : Bottom Courtyard
+      File : PCB1_Bottom_Courtyard.gbr
 
-    Adding Layer      : Top Paste
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
+    Adding Layer      : Bottom Courtyard
 
 
 Used DCodes :
-    D14
-    D15
-    D16
+    D52
 *************************************************************
 
 *************************************************************
@@ -241,143 +224,13 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Top Solder
-      File : PCB1_Soldermask_Top.gbr
+Generating : Bottom Designator
+      File : PCB1_Bottom_Designator.gbr
 
-    Adding Layer      : Top Solder
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
+    Adding Layer      : Bottom Designator
 
 
 Used DCodes :
-    D17
-    D18
-    D19
-    D20
-    D21
-    D22
-    D23
-    D24
-    D25
-*************************************************************
-
-*************************************************************
-Generating : Bottom Overlay
-      File : PCB1_Legend_Bot.gbr
-
-    Adding Layer      : Bottom Overlay
-
-
-Used DCodes :
-    D10
-    D12
-    D13
-    D49
-    D50
-    D51
-*************************************************************
-
-*************************************************************
-Generating : Top Overlay
-      File : PCB1_Legend_Top.gbr
-
-    Adding Layer      : Top Overlay
-
-
-Used DCodes :
-    D10
-    D11
-    D12
-    D13
-*************************************************************
-
-*************************************************************
-Generating : Top Pad Master
-      File : PCB1_Pads_Top.gbr
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D14
-    D15
-    D16
-    D23
-    D24
-    D26
-    D27
-    D28
-*************************************************************
-
-*************************************************************
-Generating : Bottom Pad Master
-      File : PCB1_Pads_Bot.gbr
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D23
-    D24
-    D26
-    D27
-    D28
-    D39
-    D40
-    D41
-    D42
-    D43
-*************************************************************
-
-*************************************************************
-Generating : Bottom Layer
-      File : PCB1_Copper_Signal_Bot.gbr
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D13
-    D23
-    D24
-    D26
-    D27
-    D28
-    D29
-    D39
-    D40
-    D41
-    D42
-    D43
-*************************************************************
-
-*************************************************************
-Generating : GND
-      File : PCB1_Copper_Plane_2.gbr
-
-    Adding Layer      : GND
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D30
-    D31
-    D32
-    D33
-    D34
-    D35
-    D36
-    D37
-    D38
 *************************************************************
 
 *************************************************************
@@ -422,6 +275,58 @@ Used DCodes :
     D27
     D28
     D29
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 1
+      File : PCB1_Mechanical_1.gbr
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+    D13
+    D52
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 13
+      File : PCB1_Mechanical_13.gbr
+
+    Adding Layer      : Mechanical 13
+
+
+Used DCodes :
+    D11
+    D12
+    D49
+    D53
+    D54
+    D55
+*************************************************************
+
+*************************************************************
+Generating : Bottom Assembly
+      File : PCB1_Bottom_Assembly.gbr
+
+    Adding Layer      : Bottom Assembly
+
+
+Used DCodes :
+    D54
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 15
+      File : PCB1_Mechanical_15.gbr
+
+    Adding Layer      : Mechanical 15
+
+
+Used DCodes :
+    D11
+    D52
+    D54
 *************************************************************
 
 *************************************************************
